@@ -1,2 +1,2 @@
 # hello-world
-"My first GitHub repository"
+interested in cyber security and ethical hacking
